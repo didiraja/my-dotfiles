@@ -1,0 +1,7 @@
+.gitignore
+.DS_store
+thumbs.db
+error_log
+node_modules/
+npm-debug.log
+.gulp/
